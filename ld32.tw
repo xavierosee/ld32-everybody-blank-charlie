@@ -6,6 +6,7 @@ Everybody [blank] Charlie
 {
 	"ifid": "DE566301-03C2-4EAF-B923-9A8B5D491EB9",
 	"format": "Harlowe",
+	"format-version: "1.0.0"
 	"start": "Start",
 	"zoom": 1
 }
