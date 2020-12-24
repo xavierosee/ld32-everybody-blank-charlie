@@ -1,8 +1,13 @@
-Ludum Dare #32 Compo Entry.
+# Everybody [BLANK] Charlie
 
-Theme: **An Unconventional Weapon**.
+This is my entry for the 32th Ludum Dare Compo.
 
-Converted from the [Twine2][twine] app to twee format using [Tweego][tweego]
+The theme was **An Unconventional Weapon**.
+
+Initially build using the Twine2 GUI, the source code has been converted to the twee format using [Tweego][tweego].
+
+You can play the game [here][play game].
 
 [twine]: https://twinery.org
-[tweego]: https://github.com/tmedwards/tweego	
+[tweego]: https://github.com/tmedwards/tweego
+[play game]: https://offtheground.io/
