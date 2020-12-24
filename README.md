@@ -10,4 +10,4 @@ You can play the game [here][play game].
 
 [twine]: https://twinery.org
 [tweego]: https://github.com/tmedwards/tweego
-[play game]: https://offtheground.io/
+[play game]: https://xavierosee.github.io/ld32-everybody-blank-charlie/
